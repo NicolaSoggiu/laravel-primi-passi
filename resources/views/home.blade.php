@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hollo world</title>
+    <title>Hello world</title>
 </head>
 
 <body>
     <h1>Hello World!</h1>
     <ul>
         <li>
-            <a href="http://127.0.0.1:8000/info">Social</a>
+            <a href="http://127.0.0.1:8000/social">Social</a>
         </li>
         <li>
             <a href="http://127.0.0.1:8000/info">Info</a>
